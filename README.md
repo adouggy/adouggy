@@ -1,23 +1,27 @@
-### Hi, I'm ade 👋
+# ade (adouggy)
 
-我是一名软件工程师,坐标北京。多年 Java / Android 开发经验,喜欢折腾音视频处理和后端服务,最近也在用 TypeScript 和 AI 辅助编程(vibe coding)做一些有意思的小项目。
+📧 Email: **adouggy@gmail.com** · 📍 Beijing, China
 
-I'm a software engineer based in Beijing, China. I have years of experience in Java / Android development, enjoy working on audio/video processing and backend services, and lately I've been building fun side projects with TypeScript and AI-assisted coding.
+我是一名图形学方向的软件工程师,过去十年就职于快手(Kuaishou),专注于视频特效方向的研发,涉及实时渲染、图像/视频处理等技术。
+
+I'm a software engineer specializing in **computer graphics**. For the past ten years I have been working at **Kuaishou Technology**, focusing on **visual effects (VFX)** — including real-time rendering and image/video processing.
 
 #### 🔧 Tech / 技术栈
 
-- Java · Android · TypeScript · JavaScript / Node.js
-- Audio & video processing (FFmpeg) / 音视频处理
-- Backend services / 后端服务
+- Computer graphics & real-time rendering / 图形学与实时渲染
+- Visual effects for short video / 短视频特效
+- Image & video processing (OpenGL, FFmpeg) / 图像与视频处理
+- Java · Android · C/C++ · TypeScript
 
 #### 📌 Some projects / 一些项目
 
 - [Nine_tailed](https://github.com/adouggy/Nine_tailed) — 九尾天狐题材橄榄核雕设计,by vibe coding
+- [MirrorMe](https://github.com/adouggy/MirrorMe) — 基于 FFmpeg 的镜像对话视频特效 / A dialog-with-myself video effect via FFmpeg
+- [poly2tri-c](https://github.com/adouggy/poly2tri-c) — 多边形三角剖分库 / Polygon triangulation library in C
 - [MyRecorder](https://github.com/adouggy/MyRecorder) — Android 录音应用 / An Android audio recorder
-- [MirrorMe](https://github.com/adouggy/MirrorMe) — 基于 FFmpeg 的"我和我对话"镜像视频效果 / A dialog-with-myself video effect via FFmpeg
-- [TrieTreeFilter](https://github.com/adouggy/TrieTreeFilter) — 基于 Trie 树的敏感词过滤 / Spam word filtering via trie tree in Node.js
 
 #### 📫 Contact / 联系我
 
+- Email: [adouggy@gmail.com](mailto:adouggy@gmail.com)
 - Blog: [yaotouwan.com](http://www.yaotouwan.com)
 - GitHub: [@adouggy](https://github.com/adouggy)
